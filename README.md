@@ -1,4 +1,4 @@
-# Challenge Foro - API REST
+Challenge Foro - API REST
 
 Funcionalidades
 
